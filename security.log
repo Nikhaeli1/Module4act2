@@ -1,0 +1,25 @@
+Not Found: /api/register/
+"POST /api/register/ HTTP/1.1" 404 2227
+Not Found: /api/register/
+"GET /api/register/ HTTP/1.1" 404 2226
+Registration attempt 1 from IP: 127.0.0.1
+Registration attempt 2 from IP: 127.0.0.1
+Registration attempt 3 from IP: 127.0.0.1
+Registration attempt 4 from IP: 127.0.0.1
+Registration attempt 5 from IP: 127.0.0.1
+Rate limit exceeded for IP: 127.0.0.1
+Too Many Requests: /api/register/
+"POST /api/register/ HTTP/1.1" 429 47
+Rate limit exceeded for IP: 127.0.0.1
+Too Many Requests: /api/register/
+"POST /api/register/ HTTP/1.1" 429 47
+Not Found: /api/payments/
+"POST /api/payments/ HTTP/1.1" 404 2400
+Registration attempt 1 from IP: 127.0.0.1
+Not Found: /api/payments/
+"POST /api/payments/ HTTP/1.1" 404 2400
+Payment attempt with missing data
+Bad Request: /api/payments/
+"POST /api/payments/ HTTP/1.1" 400 24
+Secure payment processed. Data encrypted.
+Secure payment processed. Data encrypted.
